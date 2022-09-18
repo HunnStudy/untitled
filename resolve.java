@@ -11,6 +11,7 @@ class Solution {
         String str = scanner.next();
         String[] strArray = str.split("-");
         String str1 = strArray[0] + "-";
+        System.out.println("hot-fix change");
         StringBuffer sb = new StringBuffer();
         StringBuffer sb2 = new StringBuffer();
         for (int i = 1; i < strArray.length; i++) {
