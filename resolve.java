@@ -9,6 +9,7 @@ class Solution {
         Scanner scanner = new Scanner(System.in);
         int K = scanner.nextInt();
         String str = scanner.next();
+        System.out.println("djjdjdjdj");
         String[] strArray = str.split("");
         String str1 = strArray[0] + "-";
         StringBuffer sb = new StringBuffer();
