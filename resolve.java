@@ -12,6 +12,7 @@ class Solution {
         System.out.println("djjdjdjdj");
         System.out.println("djfijdoifjosdj");
         String[] strArray = str.split("");
+        System.out.println("master change");
         String str1 = strArray[0] + "-";
         StringBuffer sb = new StringBuffer();
         StringBuffer sb2 = new StringBuffer();
